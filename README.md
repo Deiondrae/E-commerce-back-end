@@ -1,7 +1,7 @@
 # E-Commerce back-end
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
   ## Description
-  This application is the backend for an e-commerce site
+  This application is a backend for getting, creating, updating, and deleting items for an e-commerce website (i.e., products, categories, product tags, etc.). The application uses sequelize to handle the mapping and associations with the MySQL2 database.
 
   ## Table of Contents
   - [Description](#Description)
