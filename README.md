@@ -16,7 +16,7 @@
   N/A
 
   ## Usage
-  N/A
+  Walkthrough video available here: https://drive.google.com/file/d/1Atw45roHqbweNTHQj_Z5EZGx08y_ThPH/view
 
   ## License
   https://opensource.org/licenses/MIT
